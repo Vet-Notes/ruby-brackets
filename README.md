@@ -80,6 +80,6 @@ Then add the keybind for the language:
 [vscode-ruby/#210](https://github.com/rubyide/vscode-ruby/issues/210)
 
 ## Credits
-
+Forked From: [aliariff](https://github.com/aliariff/vscode-auto-add-brackets)
 Icons made by [Icon Monk](https://www.flaticon.com/authors/icon-monk) from [www.flaticon.com](https://www.flaticon.com)
 is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0)
